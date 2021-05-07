@@ -10,11 +10,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "devDependencies": {
     "bcrypt": "^5.0.0",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.7.7",
     "nodemon": "^1.19.3"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "colors": "^1.4.0"
   }
 }
