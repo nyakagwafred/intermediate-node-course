@@ -1,0 +1,5 @@
+::1 - - [08/May/2021:00:53:58 +0000] "GET /api/users/ HTTP/1.1" 200 529 "-" "PostmanRuntime/7.28.0"
+::1 - - [08/May/2021:00:54:00 +0000] "GET /api/users/ HTTP/1.1" 200 529 "-" "PostmanRuntime/7.28.0"
+::1 - - [08/May/2021:00:54:54 +0000] "POST /api/users/ HTTP/1.1" 201 282 "-" "PostmanRuntime/7.28.0"
+::1 - - [08/May/2021:00:56:38 +0000] "POST /api/users/ HTTP/1.1" 400 258 "-" "PostmanRuntime/7.28.0"
+::1 - - [08/May/2021:00:56:41 +0000] "GET /api/users/ HTTP/1.1" 200 792 "-" "PostmanRuntime/7.28.0"
